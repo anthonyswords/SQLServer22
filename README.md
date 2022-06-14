@@ -1,3 +1,3 @@
 # SQLServer22
 
-we show a few exemples code about mini projects in SQL Server made out in summer 2022
+Let me show you a few exemples about mini projects coding in SQL Server made out in summer 2022
